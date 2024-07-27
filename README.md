@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vignyl
-- 👀 I’m interested in software 
+- 👀 I’m software engineer
+- 🌱 I’m full-stack developer (.Net & Flutter)
 - 🌱 I’m currently learning ICT
 - 💞️ I’m looking to collaborate on software applications
 
